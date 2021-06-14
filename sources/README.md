@@ -1,8 +1,6 @@
 
 # Numerical Analysis by Timothy Sauer
 
-![image](https://user-images.githubusercontent.com/6586811/121909245-59c2f400-ccf3-11eb-9310-2f9d61c9f4b3.png)
-
 # Numerical Mathematics and Computing by Cheney and Kincaid
 
 ![image](https://user-images.githubusercontent.com/6586811/121909321-6b0c0080-ccf3-11eb-89eb-b866740ea4b1.png)
