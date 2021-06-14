@@ -1,20 +1,26 @@
 [
   {
-    "Date":"2021-07-08"
+    "Date":"2021-07-08",
+    "Description":"First day of classes."
   },
   {
-    "Date":"2021-07-09"
+    "Date":"2021-07-09",
+    "Description":"Last day to add a class or register for Summer II 2021 classes."
   },
   {
-    "Date":"2021-08-04"
+    "Date":"2021-08-04",
+    "Description":"Last day to drop a class or withdraw."
   },
   {
-    "Date":"2021-08-12"
+    "Date":"2021-08-12",
+    "Description":"Study Day - NO classes"
   },
   {
-    "Date":"2021-08-13"
+    "Date":"2021-08-13",
+    "Description":"Final Exams"
   },
   {
-    "Date":"2021-08-16"
+    "Date":"2021-08-16",
+    "Description":"Grades Due at 3 p.m."
   }
 ]
