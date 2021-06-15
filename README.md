@@ -1,4 +1,4 @@
-# MATH 6375 Numerical Analysis
+# MATH 6375 Numerical Analysis Summer II 2021
 
 ![image](https://user-images.githubusercontent.com/6586811/121906185-7ad61580-ccf0-11eb-97dc-961e0a503d0a.png)
 
